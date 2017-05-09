@@ -4,3 +4,6 @@ Conversion tools
 - Gallons to litres
 - Hours to minutes
 - Feet to inches
+
+- Minutes to seconds
+- Degrees to Radians
