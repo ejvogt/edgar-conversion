@@ -3,4 +3,4 @@ Conversion tools
 - Dollar to cents
 - Gallons to litres
 - Hours to minutes
-
+- Feet to inches
